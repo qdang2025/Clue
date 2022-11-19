@@ -1,18 +1,4 @@
-This is the README file for the implementation of CS 230 project 1 'CLUE'.
-
-
-
-This project has 3 authors:
-1) Shamanth Kuthpadi - SPIRE ID 33283988 (responsible for coding, debugging, and documentation)
-2) Taru Meshram      - SPIRE ID 33298885 (responsible for coding and documentation)
-3) Quang Dang        - SPIRE ID 33296828 (responsible for coding and debugging)
-
-Official permission to work on this project in a group of 3 people has been granted by Professor Marc Liberatore. 
-Professor Liberatore advised us to submit two identical submissions on gradescope and indicate that 3 people worked on the project in the README file.
-
-Link to Google Drive containing screenshots of official permission from Professor Liberatore through email exchanges: 
-https://drive.google.com/drive/folders/14rLurYei7PJAvtm8ksfd4Nf_dRvi7hZu?usp=sharing
-
+This is the README file for "CLUE".
 
 
 The architecture/file content of the project is as follows-
